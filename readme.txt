@@ -14,3 +14,5 @@ Creating a new branch is quick and simple.
 原来如此
 
 branch manage.
+
+conflic master.
