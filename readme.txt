@@ -15,4 +15,9 @@ Creating a new branch is quick and simple.
 
 branch manage.
 
+
 conflic master.
+
+dev conflic.
+
+conflic is useless with --no-ff to merge branch.
