@@ -22,4 +22,9 @@ dev conflic.
 
 conflic is useless with --no-ff to merge branch.
 
+<<<<<<< HEAD
 dev branch.
+=======
+bob branch.
+>>>>>>> bob
+only one branch work will not conflic
