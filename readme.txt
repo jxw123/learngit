@@ -30,5 +30,11 @@ bob branch.
 only one branch work will not conflic
 
 stash?
+<<<<<<< HEAD
 
 other push?
+=======
+begin stash!
+
+cur dev?
+>>>>>>> d387a10411ce9ab7f734dfcb4af3c1dc6e78d97d
