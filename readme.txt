@@ -12,3 +12,5 @@ Creating a new branch is quick.
 just test branch.
 Creating a new branch is quick and simple.
 原来如此
+
+branch manage.
