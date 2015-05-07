@@ -21,3 +21,5 @@ conflic master.
 dev conflic.
 
 conflic is useless with --no-ff to merge branch.
+
+bob branch.
