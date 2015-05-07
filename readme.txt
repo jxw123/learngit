@@ -28,3 +28,5 @@ dev branch.
 bob branch.
 >>>>>>> bob
 only one branch work will not conflic
+
+stash?
