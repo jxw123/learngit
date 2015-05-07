@@ -7,3 +7,8 @@ Creating a new branch is quick.
 just test branch.
 Creating a new branch is quick and simple.
 现在可以删除dev 分支了
+if influence each other.
+Creating a new branch is quick.
+just test branch.
+Creating a new branch is quick and simple.
+原来如此
