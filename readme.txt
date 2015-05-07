@@ -30,3 +30,6 @@ bob branch.
 only one branch work will not conflic
 
 stash?
+begin stash!
+
+cur dev?
