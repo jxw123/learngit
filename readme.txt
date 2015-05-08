@@ -28,3 +28,4 @@ dev branch.
 bob branch.
 >>>>>>> bob
 only one branch work will not conflic
+<a href="www.baidu.com">just have a look!</a>
